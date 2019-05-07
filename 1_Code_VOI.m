@@ -5,13 +5,13 @@
 %   systems research based on a value of information approach"
 %
 % AUTHORS:
-%   Katrina J Davis, Iadine Chadès, Jonathan R Rhodes & Michael Bode
+%   Katrina J Davis, Iadine ChadÃ¨s, Jonathan R Rhodes & Michael Bode
 %
 % DESCRIPTION:
 %   Code calculates VOI for individual parameters (Analysis 1)
 %   and for paired parameters (Analysis 2) in all systems
 %
-% Note: this code should be run before 'Code_VOI'
+% Note: this code should be run before '2_Code_EVPXI'
 % Note: all discretisations have been reduced (as below) for tractability:
 %           Replication = 10 (here 'o' and 'u')
 %           n = 5 (discretisations for parameter of interest, here 'DiscSteps')
