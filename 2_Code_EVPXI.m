@@ -5,13 +5,13 @@
 %   systems research based on a value of information approach"
 %
 % AUTHORS:
-%   Katrina J Davis, Iadine Chadès, Jonathan R Rhodes & Michael Bode
+%   Katrina J Davis, Iadine ChadÃ¨s, Jonathan R Rhodes & Michael Bode
 %
 % DESCRIPTION:
 %   Code brings together data and calculcates EVPXI for individual parameters (Analysis 1)
 %   and for paired parameters (Analysis 2) in all systems
 %
-% Note: this code should be run after 'Code_VOI'
+% Note: this code should be run after '1_Code_VOI'
 % ##############################################################################################%
 
 % % PARAMETERS
