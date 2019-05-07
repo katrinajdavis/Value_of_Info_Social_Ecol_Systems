@@ -3,7 +3,7 @@
 #   "General rules for environmental management to prioritise social-ecological
 #   systems research based on a value of information approach"
 # AUTHORS:
-#   Katrina J Davis, Iadine Chadès, Jonathan R Rhodes & Michael Bode
+#   Katrina J Davis, Iadine ChadÃ¨s, Jonathan R Rhodes & Michael Bode
 # DESCRIPTION:
 #   Code recreates Figure 4 in the manuscript (but at lower discretisation)
 # NOTE: 
@@ -11,7 +11,7 @@
 # ****************************************************************************
 
 # Update with personal file path
-workDir <- "C:/Users/trins/Dropbox/0_Work/1_Workshops_shared/SNA Workshop/Projects/Value_of_information/Submission/6_JAE/Proofs/Code"
+workDir <- ""
 
 # Set working directory
 setwd(workDir) 
