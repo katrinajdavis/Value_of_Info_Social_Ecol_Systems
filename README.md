@@ -2,6 +2,7 @@
 Matlab and R code to replicate analysis from article: "General rules for environmental management to prioritise social-ecological systems research based on a value of information approach."
 
 =======DESCRIPTION=======
+
 This repository contains (1) MATLAB code files to evaluate the expected value of perfect information on "X" (EVPXI), an unknown parameter of interest, in four coupled, social-ecological system; and (2) R code file to recreate Figure 4 from the manuscript. 
 
 The files comprise MATLAB scripts:
